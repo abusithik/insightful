@@ -1,0 +1,51 @@
+date,product_id,product_name,category,quantity_in_stock,reorder_level,unit_price,supplier_name,last_restock_date,storage_location
+2024-01-01,INV001,Laptop Dell XPS 13,Electronics,45,20,1299.99,TechSupply Corp,2023-12-25,Warehouse A-12
+2024-01-01,INV002,Wireless Mouse,Electronics,150,50,29.99,TechSupply Corp,2023-12-28,Warehouse A-14
+2024-01-01,INV003,Office Chair,Furniture,30,15,199.99,FurnishPro Inc,2023-12-20,Warehouse B-01
+2024-01-02,INV004,LED Monitor 27",Electronics,60,25,349.99,TechSupply Corp,2023-12-27,Warehouse A-12
+2024-01-02,INV005,Standing Desk,Furniture,25,10,499.99,FurnishPro Inc,2023-12-22,Warehouse B-02
+2024-01-03,INV006,Printer Paper,Office Supplies,500,200,8.99,OfficeMax Solutions,2024-01-01,Warehouse C-03
+2024-01-03,INV007,Ink Cartridge,Office Supplies,80,40,34.99,OfficeMax Solutions,2024-01-01,Warehouse C-04
+2024-01-04,INV008,USB-C Cable,Electronics,200,75,15.99,TechSupply Corp,2023-12-29,Warehouse A-15
+2024-01-04,INV009,Filing Cabinet,Furniture,20,8,299.99,FurnishPro Inc,2023-12-21,Warehouse B-03
+2024-01-05,INV010,Laptop Stand,Electronics,75,30,49.99,TechSupply Corp,2023-12-30,Warehouse A-14
+2024-01-06,INV011,Mechanical Keyboard,Electronics,90,40,129.99,TechSupply Corp,2024-01-02,Warehouse A-13
+2024-01-06,INV012,Desk Lamp,Office Supplies,60,25,39.99,OfficeMax Solutions,2024-01-03,Warehouse C-02
+2024-01-07,INV013,Webcam HD,Electronics,40,20,79.99,TechSupply Corp,2024-01-04,Warehouse A-12
+2024-01-07,INV014,Paper Shredder,Office Supplies,25,10,149.99,OfficeMax Solutions,2024-01-03,Warehouse C-05
+2024-01-08,INV015,Desk Mat,Office Supplies,120,50,24.99,OfficeMax Solutions,2024-01-05,Warehouse C-02
+2024-01-08,INV016,Monitor Stand,Electronics,70,30,59.99,TechSupply Corp,2024-01-04,Warehouse A-14
+2024-01-09,INV017,Storage Cabinet,Furniture,15,8,399.99,FurnishPro Inc,2024-01-02,Warehouse B-04
+2024-01-09,INV018,Wireless Keyboard,Electronics,85,40,89.99,TechSupply Corp,2024-01-06,Warehouse A-13
+2024-01-10,INV019,Desk Organizer,Office Supplies,100,40,19.99,OfficeMax Solutions,2024-01-07,Warehouse C-01
+2024-01-10,INV020,External SSD 1TB,Electronics,50,20,159.99,TechSupply Corp,2024-01-05,Warehouse A-15
+2024-01-11,INV021,Conference Table,Furniture,10,5,899.99,FurnishPro Inc,2024-01-08,Warehouse B-05
+2024-01-11,INV022,Printer HP LaserJet,Electronics,25,10,449.99,TechSupply Corp,2024-01-07,Warehouse A-11
+2024-01-12,INV023,Stapler Set,Office Supplies,150,60,12.99,OfficeMax Solutions,2024-01-09,Warehouse C-03
+2024-01-12,INV024,Laptop Bag,Electronics,95,40,45.99,TechSupply Corp,2024-01-08,Warehouse A-14
+2024-01-13,INV025,Office Phone,Electronics,30,15,129.99,TechSupply Corp,2024-01-10,Warehouse A-12
+2024-01-13,INV026,Bookshelf,Furniture,20,8,249.99,FurnishPro Inc,2024-01-09,Warehouse B-02
+2024-01-14,INV027,Whiteboard,Office Supplies,40,15,89.99,OfficeMax Solutions,2024-01-11,Warehouse C-04
+2024-01-14,INV028,Power Strip,Electronics,120,50,29.99,TechSupply Corp,2024-01-10,Warehouse A-15
+2024-01-15,INV029,Task Chair,Furniture,35,15,179.99,FurnishPro Inc,2024-01-12,Warehouse B-01
+2024-01-15,INV030,Laptop Cooling Pad,Electronics,65,30,34.99,TechSupply Corp,2024-01-11,Warehouse A-13
+2024-01-16,INV031,File Folders,Office Supplies,300,100,15.99,OfficeMax Solutions,2024-01-13,Warehouse C-03
+2024-01-16,INV032,Wireless Charger,Electronics,80,35,39.99,TechSupply Corp,2024-01-12,Warehouse A-14
+2024-01-17,INV033,Storage Boxes,Office Supplies,200,75,9.99,OfficeMax Solutions,2024-01-14,Warehouse C-05
+2024-01-17,INV034,Desktop PC,Electronics,20,8,999.99,TechSupply Corp,2024-01-13,Warehouse A-11
+2024-01-18,INV035,Meeting Table,Furniture,15,6,599.99,FurnishPro Inc,2024-01-15,Warehouse B-03
+2024-01-18,INV036,Notebook Set,Office Supplies,250,100,19.99,OfficeMax Solutions,2024-01-15,Warehouse C-02
+2024-01-19,INV037,Tablet Stand,Electronics,90,40,29.99,TechSupply Corp,2024-01-16,Warehouse A-14
+2024-01-19,INV038,Wall Clock,Office Supplies,45,20,24.99,OfficeMax Solutions,2024-01-16,Warehouse C-01
+2024-01-20,INV039,Document Scanner,Electronics,25,10,299.99,TechSupply Corp,2024-01-17,Warehouse A-12
+2024-01-20,INV040,Storage Bench,Furniture,20,8,349.99,FurnishPro Inc,2024-01-17,Warehouse B-04
+2024-01-21,INV041,Desk Calendar,Office Supplies,180,75,7.99,OfficeMax Solutions,2024-01-18,Warehouse C-02
+2024-01-21,INV042,Wireless Headset,Electronics,70,30,159.99,TechSupply Corp,2024-01-18,Warehouse A-13
+2024-01-22,INV043,Flip Chart,Office Supplies,35,15,69.99,OfficeMax Solutions,2024-01-19,Warehouse C-04
+2024-01-22,INV044,Cable Management,Electronics,150,60,14.99,TechSupply Corp,2024-01-19,Warehouse A-15
+2024-01-23,INV045,Guest Chair,Furniture,40,15,149.99,FurnishPro Inc,2024-01-20,Warehouse B-01
+2024-01-23,INV046,Presentation Remote,Electronics,55,25,49.99,TechSupply Corp,2024-01-20,Warehouse A-14
+2024-01-24,INV047,Paper Clips Box,Office Supplies,400,150,4.99,OfficeMax Solutions,2024-01-21,Warehouse C-03
+2024-01-24,INV048,Tablet iPad Pro,Electronics,30,12,899.99,TechSupply Corp,2024-01-21,Warehouse A-11
+2024-01-25,INV049,Room Divider,Furniture,15,6,799.99,FurnishPro Inc,2024-01-22,Warehouse B-05
+2024-01-25,INV050,Label Maker,Office Supplies,60,25,39.99,OfficeMax Solutions,2024-01-22,Warehouse C-02
